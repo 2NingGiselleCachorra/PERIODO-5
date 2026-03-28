@@ -130,4 +130,4 @@ match opt:
         plt.show()
         
     case _:
-        print('Opção Invalida')
+        print('>>Opção Invalida<<')
